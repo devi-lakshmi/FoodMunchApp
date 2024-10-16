@@ -26,5 +26,6 @@ You can view the live demo of the website https://foodmunchapp.netlify.app
 
   **Clone the repository** to your local machine using the command:
   
+    ```bash
     git@github.com:devi-lakshmi/FoodMunchApp.git
  
