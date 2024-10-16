@@ -6,14 +6,14 @@ While the site is static and does not include any backend functionality, it demo
 
 ## Live Demo
 
-You can view the live demo of the website
+You can view the live demo of the website https://foodmunchapp.netlify.app
 
 ## Features
 
 - **Responsive Design**: The website is fully responsive, adapting seamlessly to various screen sizes, including mobile, tablet, and desktop.
 - **Static Content**: Displays static sections for categories like Non-Veg Starters, Veg Starters, Soups, Main Course, etc., without dynamic functionalities like placing orders or logging in.
 - **Bootstrap Components**: Used Bootstrap for grid layout, navbar, buttons, and modal popups.
-- **Modal for Gift Voucher**: A modal popup allows users to view a gift voucher.
+- **Modal for Gift Voucher**: A modal popup lets users view a gift voucher.
 - **Social Media Integration**: Displays icons linking to social media platforms like Twitter, Instagram, and Facebook.
 
  
@@ -25,5 +25,6 @@ You can view the live demo of the website
 - **FontAwesome**: For social media icons.
 
   **Clone the repository** to your local machine using the command:
-   ```bash
+  
+    git@github.com:devi-lakshmi/FoodMunchApp.git
  
