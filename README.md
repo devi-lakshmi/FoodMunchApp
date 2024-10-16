@@ -26,4 +26,4 @@ You can view the live demo of the website
 
   **Clone the repository** to your local machine using the command:
    ```bash
-   git clone https://github.com/yourusername/foodmunch.git
+ 
