@@ -6,7 +6,7 @@ While the site is static and does not include any backend functionality, it demo
 
 ## Live Demo
 
-You can view the live demo of the website [(https://foodmunchapp.netlify.app)]
+You can view the live demo of the website [here](https://foodmunchapp.netlify.app)
 
 ## Features
 
